@@ -11,9 +11,9 @@
 
 	lib_mg_continental.mg_voronoi_defaults = false
 
-	lib_mg_continental.mg_distance_metric = "cm"
+	lib_mg_continental.mg_distance_metric = "em"
 
-	lib_mg_continental.mg_world_scale = 0.01
+	lib_mg_continental.mg_world_scale = 0.1
 
 	--lib_mg_continental.mg_biome_scale = 1
 	lib_mg_continental.mg_biome_scale = lib_mg_continental.mg_world_scale
